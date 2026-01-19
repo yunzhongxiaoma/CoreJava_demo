@@ -15,7 +15,7 @@ import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
 import java.util.Random;
 
-public class csvRead {
+public class CsvRead {
 	public static void main(String[] args) throws IOException {
 //		csvReadMethod(new File("F:\\ssss\\w.csv"));
 //		double n = Math.random();

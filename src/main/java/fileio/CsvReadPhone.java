@@ -1,4 +1,4 @@
-﻿package main.java.fileio;
+package main.java.fileio;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -14,7 +14,7 @@ import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.Random;
 
-public class csvReadPhone {
+public class CsvReadPhone {
 	public static void main(String[] args) throws IOException {
 //		double n = Math.random();
 //		System.out.println(n);
